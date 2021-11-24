@@ -79,3 +79,7 @@ class Employee implements IsPerson{
 const jhon=new Employee('jhon','doe');
 
 jhon.sayHi('hello');
+
+
+
+
